@@ -1,0 +1,16 @@
+CNN_LSTM:
+English: A man riding a horse
+Arabic: A man riding a horse بالعربية
+
+TransformerModel:
+English: A scenic view of mountains
+Arabic: A scenic view of mountains بالعربية
+
+AttentionModel:
+English: A close-up of a cat
+Arabic: A close-up of a cat بالعربية
+
+BLIP:
+English: A group of people at a party
+Arabic: A group of people at a party بالعربية
+
